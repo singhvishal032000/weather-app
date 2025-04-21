@@ -20,8 +20,5 @@ yarn-error.log*
 
 # Environment files
 .env/
-README.md/
-public/
-package.json/
-package-lock.json
+README.md
 
