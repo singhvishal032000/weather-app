@@ -19,5 +19,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment files
-.env
+.env/
+README.md
 
